@@ -1,0 +1,15 @@
+DeedWise model attribution
+
+Base model: setu4993/LEALLA-small
+Source: https://huggingface.co/setu4993/LEALLA-small
+Source revision: 8fadf81fe3979f373ba9922ab616468a4184b266
+Upstream license: Apache License 2.0, included as LICENSE.txt.
+
+LEALLA is described in Mao and Nakagawa, Learning Lightweight Language-agnostic
+Sentence Embeddings with Knowledge Distillation, EACL 2023.
+This PyTorch model is a conversion of the original TensorFlow LEALLA model.
+
+DeedWise preparation preserves the BERT pooler sentence representation, adds
+an identity-initialized projection adapter, exports ONNX, quantizes weights,
+and precomputes the 50-deed catalog's reference embeddings.
+This notice makes no claim of production accuracy or upstream endorsement.

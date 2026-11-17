@@ -1,0 +1,32 @@
+{
+  "model_id": ".model-cache\\lealla-normalized-matcher\\model",
+  "max_tokens": 128,
+  "automatic_matching_enabled": false,
+  "quantization": "per_channel_uint8_matmul_and_gather",
+  "output_dimensions": 128,
+  "threshold_calibrated": false,
+  "files": {
+    "encoder.onnx": {
+      "sha256": "dfe5ee78c9c7184e76d9d58936c215002bf2c2f46e3661321a764a5d086a135d",
+      "bytes": 70419360
+    },
+    "vocab.txt": {
+      "sha256": "7453247caa2cf23116c1da332bec0cc1c9ef896b7803591a62ad2007b7a33c33",
+      "bytes": 5220781
+    },
+    "reference_embeddings.json": {
+      "sha256": "b9ae9c187eccf05bcfe3625d49ea7f4a074dc59b64151a0ea600dfd835c7de86",
+      "bytes": 577802
+    },
+    "banglish_normalization.json": {
+      "sha256": "3685feb5dcc0cd21a13d8782c9927cd98c3d1e4f1f545458e802fac22233017f",
+      "bytes": 22427
+    }
+  },
+  "catalog_version": "quran-50-v1",
+  "match_threshold": 0.8,
+  "deployment_mode": "suggestions_only",
+  "automatic_gate_failure": "validation: positive recall is below 0.5.",
+  "production_validated": false,
+  "evaluated_manifest_sha256": "6897d754e5b72e7e02aa598f65a95a073095e39f3c3029bfc0f67d4b74dbd4f3"
+}

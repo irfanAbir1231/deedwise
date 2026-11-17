@@ -1,0 +1,112 @@
+{"text": "I devoted my worship to God alone today.", "rule_ids": ["quran-01"], "language": "en"}
+{"text": "I offered the afternoon salah on time.", "rule_ids": ["quran-02"], "language": "en"}
+{"text": "I calculated and distributed my annual zakat.", "rule_ids": ["quran-03"], "language": "en"}
+{"text": "I asked for guidance and acted on sound advice about right conduct.", "rule_ids": ["quran-04"], "language": "en"}
+{"text": "I completed today's Ramadan fast with a sincere intention.", "rule_ids": ["quran-05"], "language": "en"}
+{"text": "I recited tasbih and remembered God during the day.", "rule_ids": ["quran-06"], "language": "en"}
+{"text": "I reflected on my blessings and expressed gratitude.", "rule_ids": ["quran-07"], "language": "en"}
+{"text": "I sought forgiveness and stopped repeating my bad habit.", "rule_ids": ["quran-08", "quran-50"], "language": "en"}
+{"text": "I endured a setback without giving up or complaining bitterly.", "rule_ids": ["quran-09"], "language": "en"}
+{"text": "I checked my intention and served only for God's approval.", "rule_ids": ["quran-10"], "language": "en"}
+{"text": "I took my elderly father to his appointment and comforted him.", "rule_ids": ["quran-11"], "language": "en"}
+{"text": "I supported my cousin when our extended family needed help.", "rule_ids": ["quran-12"], "language": "en"}
+{"text": "I spent time caring for children at an orphanage.", "rule_ids": ["quran-13"], "language": "en"}
+{"text": "I bought lunch for a poor person who had nothing to eat.", "rule_ids": ["quran-14"], "language": "en"}
+{"text": "I arranged a safe place to sleep for someone living on the street.", "rule_ids": ["quran-15"], "language": "en"}
+{"text": "I gave a voluntary sadaqah donation from my savings.", "rule_ids": ["quran-16"], "language": "en"}
+{"text": "I arranged supplies for families forced to flee their homes.", "rule_ids": ["quran-17"], "language": "en"}
+{"text": "I visited the family next door to see how I could help.", "rule_ids": ["quran-18"], "language": "en"}
+{"text": "I carried heavy bags for a person who was struggling.", "rule_ids": ["quran-19"], "language": "en"}
+{"text": "I funded a water facility that everyone in the village can use.", "rule_ids": ["quran-20"], "language": "en"}
+{"text": "I chose considerate words when talking to a worried colleague.", "rule_ids": ["quran-21"], "language": "en"}
+{"text": "I helped two people settle their disagreement fairly.", "rule_ids": ["quran-22", "quran-48"], "language": "en"}
+{"text": "I let go of resentment after a friend apologised.", "rule_ids": ["quran-23"], "language": "en"}
+{"text": "I calmed myself down when I felt like lashing out.", "rule_ids": ["quran-24"], "language": "en"}
+{"text": "I gave credit to others instead of showing off my success.", "rule_ids": ["quran-25"], "language": "en"}
+{"text": "I considered different advice patiently and acted on the wisest part.", "rule_ids": ["quran-26"], "language": "en"}
+{"text": "I followed through on my commitment to visit someone.", "rule_ids": ["quran-27"], "language": "en"}
+{"text": "I admitted what actually happened instead of making up an excuse.", "rule_ids": ["quran-28"], "language": "en"}
+{"text": "I described what I witnessed accurately at a hearing.", "rule_ids": ["quran-29"], "language": "en"}
+{"text": "I helped someone who had previously treated me badly.", "rule_ids": ["quran-30"], "language": "en"}
+{"text": "I accepted a fair decision against my own interests.", "rule_ids": ["quran-31"], "language": "en"}
+{"text": "I evaluated my rival's work without letting hostility affect my judgment.", "rule_ids": ["quran-32"], "language": "en"}
+{"text": "I checked my shop scales and measured every sale honestly.", "rule_ids": ["quran-33"], "language": "en"}
+{"text": "I declined money that would require taking someone else's property unjustly.", "rule_ids": ["quran-34"], "language": "en"}
+{"text": "I kept a child's inherited property separate until they could manage it.", "rule_ids": ["quran-35"], "language": "en"}
+{"text": "I asked everyone affected for their opinion before deciding together.", "rule_ids": ["quran-36"], "language": "en"}
+{"text": "I called emergency services for someone whose life was at risk.", "rule_ids": ["quran-37"], "language": "en"}
+{"text": "I treated my spouse fairly and made a considerate family arrangement.", "rule_ids": ["quran-38"], "language": "en"}
+{"text": "I fulfilled my obligations under our signed agreement.", "rule_ids": ["quran-39"], "language": "en"}
+{"text": "I reported bullying through the proper channel and encouraged fair conduct.", "rule_ids": ["quran-40"], "language": "en"}
+{"text": "I took the initiative to do something beneficial whenever the chance arose.", "rule_ids": ["quran-41"], "language": "en"}
+{"text": "I attended a lesson to gain knowledge that helps others.", "rule_ids": ["quran-42"], "language": "en"}
+{"text": "I coordinated with others to carry out a charitable project.", "rule_ids": ["quran-43"], "language": "en"}
+{"text": "I stopped myself from making a joke that would humiliate a classmate.", "rule_ids": ["quran-44"], "language": "en"}
+{"text": "I left a backbiting conversation and did not snoop through private messages.", "rule_ids": ["quran-45"], "language": "en"}
+{"text": "I cleaned up a shared area instead of contributing to destruction or disorder.", "rule_ids": ["quran-46"], "language": "en"}
+{"text": "I avoided waste and excess when choosing my meal.", "rule_ids": ["quran-47"], "language": "en"}
+{"text": "I brought community members together to restore peaceful relations.", "rule_ids": ["quran-22", "quran-48"], "language": "en"}
+{"text": "I handed back property someone had trusted me to keep safe.", "rule_ids": ["quran-49"], "language": "en"}
+{"text": "After doing wrong I repaired the harm with a positive act.", "rule_ids": ["quran-08", "quran-50"], "language": "en"}
+{"text": "আজ মনোযোগ দিয়ে এক আল্লাহর ইবাদত করেছি।", "rule_ids": ["quran-01"], "language": "bn"}
+{"text": "aj johorer shomoy salat pore nilam", "rule_ids": ["quran-02"], "language": "banglish"}
+{"text": "বার্ষিক সম্পদের নির্ধারিত অংশ যাকাত হিসেবে দিয়েছি।", "rule_ids": ["quran-03"], "language": "bn"}
+{"text": "sot pothe cholte nirdeshona niye tai onushoron korlam", "rule_ids": ["quran-04"], "language": "banglish"}
+{"text": "সাহরি খেয়ে সন্ধ্যা পর্যন্ত রোজা সম্পন্ন করেছি।", "rule_ids": ["quran-05"], "language": "bn"}
+{"text": "hatar shomoy Allah ke mone kore tasbih porechi", "rule_ids": ["quran-06"], "language": "banglish"}
+{"text": "জীবনের প্রাপ্তিগুলোর জন্য শুকরিয়া জানিয়েছি।", "rule_ids": ["quran-07"], "language": "bn"}
+{"text": "ager bhul chere touba kore nijeke bodlechi", "rule_ids": ["quran-08", "quran-50"], "language": "banglish"}
+{"text": "অসুবিধা সত্ত্বেও সবর করে চেষ্টা অব্যাহত রেখেছি।", "rule_ids": ["quran-09"], "language": "bn"}
+{"text": "manusher bahba pawar asha charai valo kajta korechi", "rule_ids": ["quran-10"], "language": "banglish"}
+{"text": "আব্বুর সেবাযত্ন করেছি এবং আম্মুর সঙ্গে ভদ্রভাবে কথা বলেছি।", "rule_ids": ["quran-11"], "language": "bn"}
+{"text": "osubidhay pora attiyer proyojone pashe chilam", "rule_ids": ["quran-12"], "language": "banglish"}
+{"text": "পিতামাতাহীন শিশুটির পড়ার বই কিনে দিয়েছি।", "rule_ids": ["quran-13"], "language": "bn"}
+{"text": "na kheye thaka manushke nijer dupurer khabar diyechi", "rule_ids": ["quran-14"], "language": "banglish"}
+{"text": "পথে আটকে পড়া যাত্রীকে নিরাপদে ফেরার ব্যবস্থা করে দিয়েছি।", "rule_ids": ["quran-15"], "language": "bn"}
+{"text": "nijer taka theke iccha kore sodkar dan diyechi", "rule_ids": ["quran-16"], "language": "banglish"}
+{"text": "বাস্তুচ্যুত মানুষের জরুরি প্রয়োজনীয় জিনিস দিয়েছি।", "rule_ids": ["quran-17"], "language": "bn"}
+{"text": "pasher barir oshustho loktar jonno bazar kore enechi", "rule_ids": ["quran-18"], "language": "banglish"}
+{"text": "সমস্যায় পড়া বন্ধুকে কাজে হাতে কলমে সহযোগিতা করেছি।", "rule_ids": ["quran-19"], "language": "bn"}
+{"text": "shobar kaje lagbe emon ek prokolpe ortho diyechi", "rule_ids": ["quran-20"], "language": "banglish"}
+{"text": "বিরক্ত হলেও অপরজনের সঙ্গে কোমল ভাষায় কথা বলেছি।", "rule_ids": ["quran-21"], "language": "bn"}
+{"text": "dui joner monomalinno dur kore mil koriyechi", "rule_ids": ["quran-22", "quran-48"], "language": "banglish"}
+{"text": "আমাকে আঘাত করা ব্যক্তিকে ক্ষমা করে অভিমান ছেড়েছি।", "rule_ids": ["quran-23"], "language": "bn"}
+{"text": "rege giyeo nijer rag ke niyontrone rekhechi", "rule_ids": ["quran-24"], "language": "banglish"}
+{"text": "নিজেকে বড় মনে না করে বিনয়ের সঙ্গে সবার সঙ্গে মিশেছি।", "rule_ids": ["quran-25"], "language": "bn"}
+{"text": "poramorsho gulo jotno kore shune uttom ta menechi", "rule_ids": ["quran-26"], "language": "banglish"}
+{"text": "যে কথা দিয়েছিলাম সময়মতো তা রক্ষা করেছি।", "rule_ids": ["quran-27"], "language": "bn"}
+{"text": "miththa ojuhat na diye shotyi ghotona bolechi", "rule_ids": ["quran-28"], "language": "banglish"}
+{"text": "সাক্ষী হিসেবে চাপ এড়িয়ে সঠিক ঘটনা জানিয়েছি।", "rule_ids": ["quran-29"], "language": "bn"}
+{"text": "kharap acharon pawar poreo nirapode shodoy jobab diyechi", "rule_ids": ["quran-30"], "language": "banglish"}
+{"text": "নিজের পরিবারের বিপক্ষে গেলেও ন্যায়ের পথে থেকেছি।", "rule_ids": ["quran-31"], "language": "bn"}
+{"text": "amar shotrur shatheo obichar kori ni tar prappo diyechi", "rule_ids": ["quran-32"], "language": "banglish"}
+{"text": "পণ্য বিক্রির সময় ওজন এবং পরিমাণ ঠিক রেখেছি।", "rule_ids": ["quran-33"], "language": "bn"}
+{"text": "ghush firiye diye halal upaye rojgar korechi", "rule_ids": ["quran-34"], "language": "banglish"}
+{"text": "এতিমের আমানত রক্ষা করে উপযুক্ত সময়ে বুঝিয়ে দিয়েছি।", "rule_ids": ["quran-35"], "language": "bn"}
+{"text": "ekshathe siddhanto nite shobar shathe alochona korechi", "rule_ids": ["quran-36"], "language": "banglish"}
+{"text": "জীবন বিপন্ন মানুষটির জন্য জরুরি চিকিৎসা ডেকেছি।", "rule_ids": ["quran-37"], "language": "bn"}
+{"text": "shongir odhikar ke shomman kore ghore nirapotta rekhechi", "rule_ids": ["quran-38"], "language": "banglish"}
+{"text": "স্বার্থের ক্ষতি হলেও চুক্তির শর্তগুলো পূরণ করেছি।", "rule_ids": ["quran-39"], "language": "bn"}
+{"text": "onnay thamate uchit bhabe protibad kore shot kajer pokkhe chilam", "rule_ids": ["quran-40"], "language": "banglish"}
+{"text": "সুযোগ পাওয়ামাত্র সৎকাজে এগিয়ে গেছি।", "rule_ids": ["quran-41"], "language": "bn"}
+{"text": "binoyer shathe notun upokari gyan shikhechi", "rule_ids": ["quran-42"], "language": "banglish"}
+{"text": "সৎ উদ্দেশ্যে অন্যদের সঙ্গে সহযোগিতা করে কাজ করেছি।", "rule_ids": ["quran-43"], "language": "bn"}
+{"text": "kauke opoman kore moja na kore tar morjada rekhechi", "rule_ids": ["quran-44"], "language": "banglish"}
+{"text": "অন্যের গোপনীয়তা ভঙ্গ করিনি এবং গিবত থেকে বিরত থেকেছি।", "rule_ids": ["quran-45"], "language": "bn"}
+{"text": "elakar shompod noshto howa thamie gothonmulok kaj korechi", "rule_ids": ["quran-46"], "language": "banglish"}
+{"text": "হালাল খাবার বেছে নিয়েছি এবং অতিরিক্ত খাওয়া এড়িয়েছি।", "rule_ids": ["quran-47"], "language": "bn"}
+{"text": "elakay shanti ferate birodhi pokkho guloke ek korechi", "rule_ids": ["quran-22", "quran-48"], "language": "banglish"}
+{"text": "বিশ্বাস করে রাখা জিনিসটি তার মালিককে ফেরত দিয়েছি।", "rule_ids": ["quran-49"], "language": "bn"}
+{"text": "ager bhul kajer khoti metate ebar valo kichu korechi", "rule_ids": ["quran-08", "quran-50"], "language": "banglish"}
+{"text": "I never donated anything to that charity.", "rule_ids": [], "language": "en"}
+{"text": "Tomorrow I intend to visit my sick mother.", "rule_ids": [], "language": "en"}
+{"text": "How can I pay zakat?", "rule_ids": [], "language": "en"}
+{"text": "If I had time I would volunteer.", "rule_ids": [], "language": "en"}
+{"text": "My sister performed all her prayers today.", "rule_ids": [], "language": "en"}
+{"text": "I cheated the customer by giving less weight.", "rule_ids": [], "language": "en"}
+{"text": "I bought a new blue phone case.", "rule_ids": [], "language": "en"}
+{"text": "আজ নামাজ পড়া হয়নি।", "rule_ids": [], "language": "bn"}
+{"text": "ইচ্ছা ছিল কিন্তু রোজা রাখিনি।", "rule_ids": [], "language": "bn"}
+{"text": "kal goribder taka dibo", "rule_ids": [], "language": "banglish"}
+{"text": "ami bondhuke help kori nai", "rule_ids": [], "language": "banglish"}
+{"text": "qwerty asdf zxcv", "rule_ids": [], "language": "en"}

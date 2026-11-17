@@ -1,0 +1,17 @@
+{
+  "name": "backend-tests",
+  "version": "1.0.0",
+  "description": "DeedWise SQL migration and RLS tests using embedded PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test *.test.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@electric-sql/pglite": "^0.5.16"
+  },
+  "private": true
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="$FLUTTER_BASE_HREF">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="DeedWise - a little good, every day. Interactive UI preview.">
+  <meta name="theme-color" content="#FFFCF4">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="DeedWise">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>DeedWise · A little good, every day</title>
+  <link rel="manifest" href="manifest.json">
+<style>
+    html, body { margin: 0; background: #FFFCF4; }
+    #deedwise-loading { position: fixed; inset: 0; display: grid; place-content: center; justify-items: center; gap: 20px; background: #FFFCF4; color: #234E40; font: 20px system-ui, sans-serif; }
+    #deedwise-loading img { width: 108px; height: 108px; }
+  </style>
+</head>
+<body>
+  <div id="deedwise-loading" role="status" aria-label="Opening DeedWise">
+    <img src="deedwise-mark.svg" alt="DeedWise logo"><span>DeedWise</span>
+  </div>
+  <script>window.addEventListener('flutter-first-frame', function () { document.getElementById('deedwise-loading')?.remove(); });</script>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

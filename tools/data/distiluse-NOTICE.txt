@@ -1,0 +1,10 @@
+DeedWise model attribution
+
+Base model: sentence-transformers/distiluse-base-multilingual-cased-v2
+Source: https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v2
+Source revision: bfe45d0732ca50787611c0fe107ba278c7f3f889
+Upstream license: Apache License 2.0, included as LICENSE.txt.
+
+DeedWise preparation exports the sentence encoder to ONNX, quantizes its weights,
+and computes reference embeddings for the user-supplied 50-deed catalog.
+This notice makes no claim of production accuracy or upstream endorsement.

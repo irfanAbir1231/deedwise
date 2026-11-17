@@ -1,0 +1,312 @@
+{"text": "I worshipped Allah with sincere devotion.", "rule_ids": ["quran-01"], "language": "en"}
+{"text": "আমি একনিষ্ঠভাবে আল্লাহর ইবাদত করেছি।", "rule_ids": ["quran-01"], "language": "bn"}
+{"text": "ami ekmone Allah er ibadat korechi", "rule_ids": ["quran-01"], "language": "banglish"}
+{"text": "I performed my five daily prayers.", "rule_ids": ["quran-02"], "language": "en"}
+{"text": "আমি আজ পাঁচ ওয়াক্ত নামাজ পড়েছি।", "rule_ids": ["quran-02"], "language": "bn"}
+{"text": "ami aj pach wakt namaz porechi", "rule_ids": ["quran-02"], "language": "banglish"}
+{"text": "I paid my obligatory zakat to an eligible person.", "rule_ids": ["quran-03"], "language": "en"}
+{"text": "আমি একজন দরিদ্র মানুষকে আমার যাকাত দিয়েছি।", "rule_ids": ["quran-03"], "language": "bn"}
+{"text": "ami gorib manushke amar zakat diyechi", "rule_ids": ["quran-03"], "language": "banglish"}
+{"text": "I sought guidance and chose the right path in a difficult decision.", "rule_ids": ["quran-04"], "language": "en"}
+{"text": "আমি সঠিক পথের নির্দেশনা চেয়ে তা অনুসরণ করেছি।", "rule_ids": ["quran-04"], "language": "bn"}
+{"text": "ami sothik pother nirdeshona cheye sheta menechi", "rule_ids": ["quran-04"], "language": "banglish"}
+{"text": "I observed a fast to develop piety.", "rule_ids": ["quran-05"], "language": "en"}
+{"text": "আমি তাকওয়া অর্জনের উদ্দেশ্যে রোজা রেখেছি।", "rule_ids": ["quran-05"], "language": "bn"}
+{"text": "ami taqwa arjoner jonno roja rekhechi", "rule_ids": ["quran-05"], "language": "banglish"}
+{"text": "I spent time remembering Allah through dhikr.", "rule_ids": ["quran-06"], "language": "en"}
+{"text": "আমি আজ আল্লাহর জিকির করেছি।", "rule_ids": ["quran-06"], "language": "bn"}
+{"text": "ami aj Allah er zikir korechi", "rule_ids": ["quran-06"], "language": "banglish"}
+{"text": "I thanked God for the blessings in my life.", "rule_ids": ["quran-07"], "language": "en"}
+{"text": "আমি পাওয়া নিয়ামতের জন্য কৃতজ্ঞতা প্রকাশ করেছি।", "rule_ids": ["quran-07"], "language": "bn"}
+{"text": "ami pawa neamoter jonno shukriya aday korechi", "rule_ids": ["quran-07"], "language": "banglish"}
+{"text": "I repented for my mistake and changed my behaviour.", "rule_ids": ["quran-08"], "language": "en"}
+{"text": "আমি ভুলের জন্য তওবা করে নিজের আচরণ সংশোধন করেছি।", "rule_ids": ["quran-08"], "language": "bn"}
+{"text": "ami bhuler jonno tawba kore acharon shudhrechi", "rule_ids": ["quran-08"], "language": "banglish"}
+{"text": "I stayed patient through a difficult loss.", "rule_ids": ["quran-09"], "language": "en"}
+{"text": "আমি বিপদের সময় ধৈর্য ধরেছি।", "rule_ids": ["quran-09"], "language": "bn"}
+{"text": "ami bipoder shomoy dhoirjo dhorechi", "rule_ids": ["quran-09"], "language": "banglish"}
+{"text": "I did a good deed privately without seeking praise.", "rule_ids": ["quran-10"], "language": "en"}
+{"text": "আমি প্রশংসার আশা না করে গোপনে ভালো কাজ করেছি।", "rule_ids": ["quran-10"], "language": "bn"}
+{"text": "ami proshongsha na cheye gopone bhalo kaj korechi", "rule_ids": ["quran-10"], "language": "banglish"}
+{"text": "I cared for my mother and spoke respectfully to my father.", "rule_ids": ["quran-11"], "language": "en"}
+{"text": "আমি মায়ের যত্ন নিয়েছি এবং বাবার সঙ্গে সম্মান দিয়ে কথা বলেছি।", "rule_ids": ["quran-11"], "language": "bn"}
+{"text": "ami ma babar jotno niyechi", "rule_ids": ["quran-11"], "language": "banglish"}
+{"text": "I visited my sick aunt and helped my relatives.", "rule_ids": ["quran-12"], "language": "en"}
+{"text": "আমি অসুস্থ খালার খোঁজ নিয়ে আত্মীয়দের সাহায্য করেছি।", "rule_ids": ["quran-12"], "language": "bn"}
+{"text": "ami oshustho khalar khoj niye shahajjo korechi", "rule_ids": ["quran-12"], "language": "banglish"}
+{"text": "I supported an orphan's education and treated the child kindly.", "rule_ids": ["quran-13"], "language": "en"}
+{"text": "আমি এক এতিম শিশুর পড়াশোনার খরচ দিয়েছি।", "rule_ids": ["quran-13"], "language": "bn"}
+{"text": "ami ek etim shishur porashonar khoroch diyechi", "rule_ids": ["quran-13"], "language": "banglish"}
+{"text": "I gave cooked meals to hungry people.", "rule_ids": ["quran-14"], "language": "en"}
+{"text": "আমি ক্ষুধার্ত মানুষকে খাবার দিয়েছি।", "rule_ids": ["quran-14"], "language": "bn"}
+{"text": "ami khudarto manushke khabar diyechi", "rule_ids": ["quran-14"], "language": "banglish"}
+{"text": "I helped a stranded traveller get home and found shelter for a homeless person.", "rule_ids": ["quran-15"], "language": "en"}
+{"text": "আমি আটকে পড়া পথিককে বাড়ি ফেরার ভাড়া দিয়েছি।", "rule_ids": ["quran-15"], "language": "bn"}
+{"text": "ami atke pora pothikke bari ferar bhara diyechi", "rule_ids": ["quran-15"], "language": "banglish"}
+{"text": "I donated some money voluntarily to a person in need.", "rule_ids": ["quran-16"], "language": "en"}
+{"text": "আমি অভাবী মানুষকে স্বেচ্ছায় টাকা দান করেছি।", "rule_ids": ["quran-16"], "language": "bn"}
+{"text": "ami obhabi manushke taka dan korechi", "rule_ids": ["quran-16"], "language": "banglish"}
+{"text": "I welcomed a displaced family and supplied emergency essentials.", "rule_ids": ["quran-17"], "language": "en"}
+{"text": "আমি ঘরহারা শরণার্থী পরিবারকে সহায়তা করেছি।", "rule_ids": ["quran-17"], "language": "bn"}
+{"text": "ami ghorhara shoronarthi poribarke shahajjo korechi", "rule_ids": ["quran-17"], "language": "banglish"}
+{"text": "I checked on my elderly neighbour and helped with groceries.", "rule_ids": ["quran-18"], "language": "en"}
+{"text": "আমি বৃদ্ধ প্রতিবেশীর বাজার করে দিয়েছি।", "rule_ids": ["quran-18"], "language": "bn"}
+{"text": "ami briddho protibeshir bajar kore diyechi", "rule_ids": ["quran-18"], "language": "banglish"}
+{"text": "I helped my friend solve a practical problem.", "rule_ids": ["quran-19"], "language": "en"}
+{"text": "আমি বন্ধুকে একটি সমস্যা সমাধান করতে সাহায্য করেছি।", "rule_ids": ["quran-19"], "language": "bn"}
+{"text": "ami bondhuke problem solve korte help korechi", "rule_ids": ["quran-19"], "language": "banglish"}
+{"text": "I contributed resources to a public community project.", "rule_ids": ["quran-20"], "language": "en"}
+{"text": "আমি জনকল্যাণমূলক কাজে নিজের সম্পদ দিয়েছি।", "rule_ids": ["quran-20"], "language": "bn"}
+{"text": "ami jonokollanmulok kaje nijer shompod diyechi", "rule_ids": ["quran-20"], "language": "banglish"}
+{"text": "I spoke gently and respectfully to someone.", "rule_ids": ["quran-21"], "language": "en"}
+{"text": "আমি মানুষের সঙ্গে নম্রভাবে কথা বলেছি।", "rule_ids": ["quran-21"], "language": "bn"}
+{"text": "ami manusher shathe nomro bhabe kotha bolechi", "rule_ids": ["quran-21"], "language": "banglish"}
+{"text": "I mediated a dispute and helped two friends make peace.", "rule_ids": ["quran-22"], "language": "en"}
+{"text": "আমি দুই বন্ধুর ঝগড়া মিটিয়ে দিয়েছি।", "rule_ids": ["quran-22"], "language": "bn"}
+{"text": "ami dui bondhur jhogra mitiye diyechi", "rule_ids": ["quran-22"], "language": "banglish"}
+{"text": "I forgave someone who had hurt my feelings.", "rule_ids": ["quran-23"], "language": "en"}
+{"text": "আমি আমাকে কষ্ট দেওয়া মানুষটিকে ক্ষমা করেছি।", "rule_ids": ["quran-23"], "language": "bn"}
+{"text": "ami amake koshto deya manushke khoma korechi", "rule_ids": ["quran-23"], "language": "banglish"}
+{"text": "I controlled my anger instead of shouting at someone.", "rule_ids": ["quran-24"], "language": "en"}
+{"text": "আমি রাগ সামলে কাউকে আঘাত করা থেকে বিরত থেকেছি।", "rule_ids": ["quran-24"], "language": "bn"}
+{"text": "ami rag shamle chitkar korini", "rule_ids": ["quran-24"], "language": "banglish"}
+{"text": "I treated everyone humbly without boasting about myself.", "rule_ids": ["quran-25"], "language": "en"}
+{"text": "আমি অহংকার না করে সবার সঙ্গে বিনয়ী আচরণ করেছি।", "rule_ids": ["quran-25"], "language": "bn"}
+{"text": "ami ohongkar na kore binoyi acharon korechi", "rule_ids": ["quran-25"], "language": "banglish"}
+{"text": "I listened carefully to advice and followed the best suggestion.", "rule_ids": ["quran-26"], "language": "en"}
+{"text": "আমি মন দিয়ে কথা শুনে ভালো পরামর্শ মেনেছি।", "rule_ids": ["quran-26"], "language": "bn"}
+{"text": "ami mon diye shune bhalo poramorsho menechi", "rule_ids": ["quran-26"], "language": "banglish"}
+{"text": "I kept the promise I made to my friend.", "rule_ids": ["quran-27"], "language": "en"}
+{"text": "আমি বন্ধুকে দেওয়া কথা রেখেছি।", "rule_ids": ["quran-27"], "language": "bn"}
+{"text": "ami bondhuke deya kotha rekhechi", "rule_ids": ["quran-27"], "language": "banglish"}
+{"text": "I told the truth even though lying would have been easier.", "rule_ids": ["quran-28"], "language": "en"}
+{"text": "আমি মিথ্যা না বলে সত্য বলেছি।", "rule_ids": ["quran-28"], "language": "bn"}
+{"text": "ami mittha na bole shotto bolechi", "rule_ids": ["quran-28"], "language": "banglish"}
+{"text": "I gave honest witness testimony despite pressure to lie.", "rule_ids": ["quran-29"], "language": "en"}
+{"text": "আমি চাপের মুখেও ন্যায্য ও সত্য সাক্ষ্য দিয়েছি।", "rule_ids": ["quran-29"], "language": "bn"}
+{"text": "ami chaper mukheo shotto shakkho diyechi", "rule_ids": ["quran-29"], "language": "banglish"}
+{"text": "I responded to an insult with kindness when it was safe.", "rule_ids": ["quran-30"], "language": "en"}
+{"text": "আমি খারাপ ব্যবহারের জবাবে ভালো ব্যবহার করেছি।", "rule_ids": ["quran-30"], "language": "bn"}
+{"text": "ami kharap beboharer jobabe bhalo bebohar korechi", "rule_ids": ["quran-30"], "language": "banglish"}
+{"text": "I upheld fairness even when my own relative was in the wrong.", "rule_ids": ["quran-31"], "language": "en"}
+{"text": "আমি আত্মীয়ের বিরুদ্ধে গেলেও ন্যায়বিচারের পক্ষে থেকেছি।", "rule_ids": ["quran-31"], "language": "bn"}
+{"text": "ami attiyer biruddhe geleo nyayer pokkhe thekechi", "rule_ids": ["quran-31"], "language": "banglish"}
+{"text": "I treated a person I dislike fairly.", "rule_ids": ["quran-32"], "language": "en"}
+{"text": "আমি অপছন্দের মানুষের সঙ্গেও ন্যায্য আচরণ করেছি।", "rule_ids": ["quran-32"], "language": "bn"}
+{"text": "ami opochonder manusher shatheo najjo acharon korechi", "rule_ids": ["quran-32"], "language": "banglish"}
+{"text": "I gave my customer the full correct weight of goods.", "rule_ids": ["quran-33"], "language": "en"}
+{"text": "আমি ক্রেতাকে সঠিক ওজনে পণ্য দিয়েছি।", "rule_ids": ["quran-33"], "language": "bn"}
+{"text": "ami kretake sothik ojone ponno diyechi", "rule_ids": ["quran-33"], "language": "banglish"}
+{"text": "I refused a bribe and earned my income honestly.", "rule_ids": ["quran-34"], "language": "en"}
+{"text": "আমি ঘুষ প্রত্যাখ্যান করে সৎভাবে উপার্জন করেছি।", "rule_ids": ["quran-34"], "language": "bn"}
+{"text": "ami ghush na niye shot bhabe uparjon korechi", "rule_ids": ["quran-34"], "language": "banglish"}
+{"text": "I safeguarded an orphan's inheritance and returned it to them.", "rule_ids": ["quran-35"], "language": "en"}
+{"text": "আমি এতিমের সম্পদ রক্ষা করে তাকে বুঝিয়ে দিয়েছি।", "rule_ids": ["quran-35"], "language": "bn"}
+{"text": "ami etimer shompod rokkha kore bujhiye diyechi", "rule_ids": ["quran-35"], "language": "banglish"}
+{"text": "I consulted the team before making a shared decision.", "rule_ids": ["quran-36"], "language": "en"}
+{"text": "আমি যৌথ সিদ্ধান্তের আগে সবার সঙ্গে পরামর্শ করেছি।", "rule_ids": ["quran-36"], "language": "bn"}
+{"text": "ami shobar shathe poramorsho kore siddhanto niyechi", "rule_ids": ["quran-36"], "language": "banglish"}
+{"text": "I helped protect a person's life in an emergency.", "rule_ids": ["quran-37"], "language": "en"}
+{"text": "আমি বিপদে একজন মানুষের জীবন বাঁচাতে সাহায্য করেছি।", "rule_ids": ["quran-37"], "language": "bn"}
+{"text": "ami bipode ekjoner jibon bachate shahajjo korechi", "rule_ids": ["quran-37"], "language": "banglish"}
+{"text": "I respected my spouse's rights and made sure my family felt safe.", "rule_ids": ["quran-38"], "language": "en"}
+{"text": "আমি পরিবারের সদস্যদের অধিকার ও নিরাপত্তা রক্ষা করেছি।", "rule_ids": ["quran-38"], "language": "bn"}
+{"text": "ami poribarer odhikar o nirapotta rokkha korechi", "rule_ids": ["quran-38"], "language": "banglish"}
+{"text": "I honoured the terms of a contract despite a chance to profit by breaking it.", "rule_ids": ["quran-39"], "language": "en"}
+{"text": "আমি চুক্তির শর্তগুলো ঠিকভাবে পালন করেছি।", "rule_ids": ["quran-39"], "language": "bn"}
+{"text": "ami chuktir shortogulo palon korechi", "rule_ids": ["quran-39"], "language": "banglish"}
+{"text": "I spoke up against wrongdoing through appropriate peaceful means.", "rule_ids": ["quran-40"], "language": "en"}
+{"text": "আমি অন্যায়ের বিরুদ্ধে যথাযথভাবে প্রতিবাদ করেছি।", "rule_ids": ["quran-40"], "language": "bn"}
+{"text": "ami onnayer biruddhe shantipurno protibad korechi", "rule_ids": ["quran-40"], "language": "banglish"}
+{"text": "I actively looked for opportunities to do good throughout the day.", "rule_ids": ["quran-41"], "language": "en"}
+{"text": "আমি সুযোগ পেলেই ভালো কাজ করার চেষ্টা করেছি।", "rule_ids": ["quran-41"], "language": "bn"}
+{"text": "ami shujog pelei bhalo kaj korar cheshta korechi", "rule_ids": ["quran-41"], "language": "banglish"}
+{"text": "I studied a useful subject and learned humbly from my teacher.", "rule_ids": ["quran-42"], "language": "en"}
+{"text": "আমি বিনয়ের সঙ্গে উপকারী জ্ঞান অর্জন করেছি।", "rule_ids": ["quran-42"], "language": "bn"}
+{"text": "ami binoyer shathe upokari gyan shikhechi", "rule_ids": ["quran-42"], "language": "banglish"}
+{"text": "I worked together with volunteers on a good cause.", "rule_ids": ["quran-43"], "language": "en"}
+{"text": "আমি ভালো কাজে অন্যদের সঙ্গে সহযোগিতা করেছি।", "rule_ids": ["quran-43"], "language": "bn"}
+{"text": "ami bhalo kaje onnoder shathe shohajogita korechi", "rule_ids": ["quran-43"], "language": "banglish"}
+{"text": "I refused to mock someone or use a hurtful nickname.", "rule_ids": ["quran-44"], "language": "en"}
+{"text": "আমি কাউকে উপহাস বা অপমানজনক নামে ডাকা থেকে বিরত থেকেছি।", "rule_ids": ["quran-44"], "language": "bn"}
+{"text": "ami kauke upohash ba opomanjonok name dakini", "rule_ids": ["quran-44"], "language": "banglish"}
+{"text": "I avoided gossip and respected someone's privacy.", "rule_ids": ["quran-45"], "language": "en"}
+{"text": "আমি গিবত করিনি এবং অন্যের গোপনীয়তা রক্ষা করেছি।", "rule_ids": ["quran-45"], "language": "bn"}
+{"text": "ami gibat korini ar onner goponiyota rokkha korechi", "rule_ids": ["quran-45"], "language": "banglish"}
+{"text": "I prevented damage to our surroundings and worked constructively.", "rule_ids": ["quran-46"], "language": "en"}
+{"text": "আমি পরিবেশের ক্ষতি ঠেকিয়ে গঠনমূলক কাজ করেছি।", "rule_ids": ["quran-46"], "language": "bn"}
+{"text": "ami poribesher khoti thekiye gothonmulok kaj korechi", "rule_ids": ["quran-46"], "language": "banglish"}
+{"text": "I chose lawful wholesome food and ate in moderation.", "rule_ids": ["quran-47"], "language": "en"}
+{"text": "আমি হালাল ভালো খাবার পরিমিতভাবে খেয়েছি।", "rule_ids": ["quran-47"], "language": "bn"}
+{"text": "ami halal bhalo khabar porimito kheyechi", "rule_ids": ["quran-47"], "language": "banglish"}
+{"text": "I used my influence to reduce conflict and promote social harmony.", "rule_ids": ["quran-48"], "language": "en"}
+{"text": "আমি সমাজে শান্তি ও সম্প্রীতি বাড়াতে কাজ করেছি।", "rule_ids": ["quran-48"], "language": "bn"}
+{"text": "ami shomaje shanti o shompriti barate kaj korechi", "rule_ids": ["quran-48"], "language": "banglish"}
+{"text": "I returned an entrusted item to its rightful owner.", "rule_ids": ["quran-49"], "language": "en"}
+{"text": "আমি আমানত তার মালিককে ফিরিয়ে দিয়েছি।", "rule_ids": ["quran-49"], "language": "bn"}
+{"text": "ami amanot tar malikke firiye diyechi", "rule_ids": ["quran-49"], "language": "banglish"}
+{"text": "I made amends for wrongdoing by doing a concrete good action.", "rule_ids": ["quran-50"], "language": "en"}
+{"text": "আমি অন্যায়ের ক্ষতি পুষিয়ে দিতে ভালো কাজ করেছি।", "rule_ids": ["quran-50"], "language": "bn"}
+{"text": "ami onnayer khoti pushiye dite bhalo kaj korechi", "rule_ids": ["quran-50"], "language": "banglish"}
+{"text": "I did not do this: worship God sincerely.", "rule_ids": [], "language": "en"}
+{"text": "I intend to worship God sincerely tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I worship God sincerely?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: perform regular prayers.", "rule_ids": [], "language": "en"}
+{"text": "I intend to perform regular prayers tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I perform regular prayers?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: give obligatory charity.", "rule_ids": [], "language": "en"}
+{"text": "I intend to give obligatory charity tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I give obligatory charity?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: seek guidance and follow what is right.", "rule_ids": [], "language": "en"}
+{"text": "I intend to seek guidance and follow what is right tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I seek guidance and follow what is right?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: fast with the intention of becoming righteous.", "rule_ids": [], "language": "en"}
+{"text": "I intend to fast with the intention of becoming righteous tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I fast with the intention of becoming righteous?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: remember God frequently.", "rule_ids": [], "language": "en"}
+{"text": "I intend to remember God frequently tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I remember God frequently?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: be grateful.", "rule_ids": [], "language": "en"}
+{"text": "I intend to be grateful tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I be grateful?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: repent sincerely and reform your conduct.", "rule_ids": [], "language": "en"}
+{"text": "I intend to repent sincerely and reform your conduct tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I repent sincerely and reform your conduct?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: practise patience in hardship.", "rule_ids": [], "language": "en"}
+{"text": "I intend to practise patience in hardship tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I practise patience in hardship?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: make your good deeds sincere.", "rule_ids": [], "language": "en"}
+{"text": "I intend to make your good deeds sincere tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I make your good deeds sincere?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: treat your parents with kindness and respect.", "rule_ids": [], "language": "en"}
+{"text": "I intend to treat your parents with kindness and respect tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I treat your parents with kindness and respect?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: care for your relatives.", "rule_ids": [], "language": "en"}
+{"text": "I intend to care for your relatives tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I care for your relatives?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: care for orphans.", "rule_ids": [], "language": "en"}
+{"text": "I intend to care for orphans tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I care for orphans?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: feed people who are hungry or poor.", "rule_ids": [], "language": "en"}
+{"text": "I intend to feed people who are hungry or poor tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I feed people who are hungry or poor?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: help homeless people and travellers in need.", "rule_ids": [], "language": "en"}
+{"text": "I intend to help homeless people and travellers in need tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I help homeless people and travellers in need?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: give voluntary charity from your wealth.", "rule_ids": [], "language": "en"}
+{"text": "I intend to give voluntary charity from your wealth tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I give voluntary charity from your wealth?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: help people who have been displaced or expelled from their homes.", "rule_ids": [], "language": "en"}
+{"text": "I intend to help people who have been displaced or expelled from their homes tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I help people who have been displaced or expelled from their homes?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: treat your neighbours well.", "rule_ids": [], "language": "en"}
+{"text": "I intend to treat your neighbours well tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I treat your neighbours well?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: help people who need assistance.", "rule_ids": [], "language": "en"}
+{"text": "I intend to help people who need assistance tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I help people who need assistance?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: share your resources for the public good.", "rule_ids": [], "language": "en"}
+{"text": "I intend to share your resources for the public good tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I share your resources for the public good?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: speak kindly to people.", "rule_ids": [], "language": "en"}
+{"text": "I intend to speak kindly to people tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I speak kindly to people?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: make peace and reconcile people.", "rule_ids": [], "language": "en"}
+{"text": "I intend to make peace and reconcile people tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I make peace and reconcile people?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: forgive others when appropriate.", "rule_ids": [], "language": "en"}
+{"text": "I intend to forgive others when appropriate tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I forgive others when appropriate?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: control your anger.", "rule_ids": [], "language": "en"}
+{"text": "I intend to control your anger tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I control your anger?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: treat people with humility.", "rule_ids": [], "language": "en"}
+{"text": "I intend to treat people with humility tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I treat people with humility?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: listen attentively and follow what is best.", "rule_ids": [], "language": "en"}
+{"text": "I intend to listen attentively and follow what is best tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I listen attentively and follow what is best?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: fulfil your promises.", "rule_ids": [], "language": "en"}
+{"text": "I intend to fulfil your promises tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I fulfil your promises?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: speak truthfully and avoid falsehood.", "rule_ids": [], "language": "en"}
+{"text": "I intend to speak truthfully and avoid falsehood tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I speak truthfully and avoid falsehood?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: give fair and honest testimony.", "rule_ids": [], "language": "en"}
+{"text": "I intend to give fair and honest testimony tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I give fair and honest testimony?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: return good for evil when possible.", "rule_ids": [], "language": "en"}
+{"text": "I intend to return good for evil when possible tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I return good for evil when possible?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: uphold justice, even against yourself or relatives.", "rule_ids": [], "language": "en"}
+{"text": "I intend to uphold justice, even against yourself or relatives tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I uphold justice, even against yourself or relatives?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: be fair even toward people you dislike.", "rule_ids": [], "language": "en"}
+{"text": "I intend to be fair even toward people you dislike tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I be fair even toward people you dislike?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: give full measure and accurate weight.", "rule_ids": [], "language": "en"}
+{"text": "I intend to give full measure and accurate weight tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I give full measure and accurate weight?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: earn and use wealth lawfully.", "rule_ids": [], "language": "en"}
+{"text": "I intend to earn and use wealth lawfully tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I earn and use wealth lawfully?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: protect the property and rights of orphans.", "rule_ids": [], "language": "en"}
+{"text": "I intend to protect the property and rights of orphans tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I protect the property and rights of orphans?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: consult others on shared affairs.", "rule_ids": [], "language": "en"}
+{"text": "I intend to consult others on shared affairs tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I consult others on shared affairs?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: protect human life and refrain from unjust killing.", "rule_ids": [], "language": "en"}
+{"text": "I intend to protect human life and refrain from unjust killing tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I protect human life and refrain from unjust killing?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: respect the rights and safety of family members.", "rule_ids": [], "language": "en"}
+{"text": "I intend to respect the rights and safety of family members tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I respect the rights and safety of family members?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: honour agreements and covenants.", "rule_ids": [], "language": "en"}
+{"text": "I intend to honour agreements and covenants tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I honour agreements and covenants?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: stand firmly for what is right and oppose wrongdoing.", "rule_ids": [], "language": "en"}
+{"text": "I intend to stand firmly for what is right and oppose wrongdoing tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I stand firmly for what is right and oppose wrongdoing?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: strive to do good deeds in every opportunity.", "rule_ids": [], "language": "en"}
+{"text": "I intend to strive to do good deeds in every opportunity tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I strive to do good deeds in every opportunity?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: seek beneficial knowledge and learn with humility.", "rule_ids": [], "language": "en"}
+{"text": "I intend to seek beneficial knowledge and learn with humility tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I seek beneficial knowledge and learn with humility?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: promote cooperation in good causes.", "rule_ids": [], "language": "en"}
+{"text": "I intend to promote cooperation in good causes tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I promote cooperation in good causes?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: avoid mockery, insults, and hurtful nicknames.", "rule_ids": [], "language": "en"}
+{"text": "I intend to avoid mockery, insults, and hurtful nicknames tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I avoid mockery, insults, and hurtful nicknames?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: avoid suspicion, spying, and backbiting.", "rule_ids": [], "language": "en"}
+{"text": "I intend to avoid suspicion, spying, and backbiting tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I avoid suspicion, spying, and backbiting?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: avoid spreading corruption on Earth.", "rule_ids": [], "language": "en"}
+{"text": "I intend to avoid spreading corruption on Earth tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I avoid spreading corruption on Earth?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: eat what is lawful and good, and practise moderation.", "rule_ids": [], "language": "en"}
+{"text": "I intend to eat what is lawful and good, and practise moderation tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I eat what is lawful and good, and practise moderation?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: help bring about reconciliation and social harmony.", "rule_ids": [], "language": "en"}
+{"text": "I intend to help bring about reconciliation and social harmony tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I help bring about reconciliation and social harmony?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: give people their rights and treat them fairly.", "rule_ids": [], "language": "en"}
+{"text": "I intend to give people their rights and treat them fairly tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I give people their rights and treat them fairly?", "rule_ids": [], "language": "en"}
+{"text": "I did not do this: replace wrongdoing with righteous action.", "rule_ids": [], "language": "en"}
+{"text": "I intend to replace wrongdoing with righteous action tomorrow.", "rule_ids": [], "language": "en"}
+{"text": "How should I replace wrongdoing with righteous action?", "rule_ids": [], "language": "en"}
+{"text": "I did not help my friend with the problem.", "rule_ids": [], "language": "en"}
+{"text": "I will donate money next week.", "rule_ids": [], "language": "en"}
+{"text": "I shouted at my parents and refused to help them.", "rule_ids": [], "language": "en"}
+{"text": "My friend gave food to a hungry person, but I did nothing.", "rule_ids": [], "language": "en"}
+{"text": "আমি কাউকে সাহায্য করিনি।", "rule_ids": [], "language": "bn"}
+{"text": "আগামীকাল গরিবদের খাবার দেওয়ার ইচ্ছা আছে।", "rule_ids": [], "language": "bn"}
+{"text": "আমি ক্রেতাকে ওজনে কম দিয়েছি।", "rule_ids": [], "language": "bn"}
+{"text": "ami aj namaz porini", "rule_ids": [], "language": "banglish"}
+{"text": "ami pore dan korbo ekhono korini", "rule_ids": [], "language": "banglish"}
+{"text": "The weather forecast predicts rain tonight.", "rule_ids": [], "language": "en"}
+{"text": "আজ আমার ফোনের চার্জ শেষ।", "rule_ids": [], "language": "bn"}
+{"text": "amar laptop er rong kalo", "rule_ids": [], "language": "banglish"}
